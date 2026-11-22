@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #07090f;
+  height: 100%;
+  overflow: hidden;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+#stage {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+#game {
+  display: block;
+  width: 1280px;
+  height: 800px;
+  background: #0b0e18;
+}
+
+#hint {
+  color: #8b93a7;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  text-align: center;
+  padding: 8px 0;
+  background: #07090f;
+}
